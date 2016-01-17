@@ -1,0 +1,22 @@
+{
+  "name": "dts-test-cases",
+  "version": "1.0.0",
+  "description": "Use cases for dts-bundle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tolemac/dts-test-cases.git"
+  },
+  "author": "Javier Ros (tolemaC)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tolemac/dts-test-cases/issues"
+  },
+  "homepage": "https://github.com/tolemac/dts-test-cases#readme",
+  "devDependencies": {
+    "dts-bundle": "^0.4.2"
+  }
+}
